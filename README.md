@@ -1,0 +1,2 @@
+# duteez
+Sailing Duty Manager
